@@ -1,28 +1,23 @@
 # My Video Player
 
 ## Introduction
-This repository provides tutorials and examples for building custom video players using HTML5.
+This repository includes tutorials and examples for building custom video players.
 
 ## Features
-- Basic video player implementation
-- Custom controls
-- Responsive design
+- Customizable video player UI
+- Playlists support
+- Playback controls
 
-## Technology Stack
-- HTML5
-- CSS3
+## Tech Stack
+- HTML
+- CSS
 - JavaScript
 
 ## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/my-video-player.git
-   ```
-2. Open `index.html` in your browser to view the video player.
+1. Clone the repository.
+2. Open `index.html` in your browser.
+3. Follow the examples to customize your video player.
 
 ## Future Plans
-- Add support for streaming services
-- Implement advanced features like playlists
-
-## Contributing
-Contributions are welcome! Please submit issues or pull requests with your suggestions.
+- Add support for more video formats.
+- Implement additional playback features like speed control.
